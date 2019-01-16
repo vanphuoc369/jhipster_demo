@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.gg.myapp",
+            "nativeLanguage": "vi"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "myapp",
+        "packageName": "com.gg.myapp",
+        "packageFolder": "com/gg/myapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mariadb",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OWM5ODA4ZWUzMzBiNTJlMDI5YWViMWE0YjMyMTQ0Y2UzMzdmYjIzYjcyODQwMTNmODRmZmMyYjY4OGZmNGYwMTg5ZDExNzljYTZhMjM5YWQyYWEzNmE4Mzk2M2RjODk0OTkwYjBiZTYwMDU1MzMyMzM1NzZkMDQyMTA4NzUxODA=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "vi",
+        "languages": ["vi"]
+    }
+}
