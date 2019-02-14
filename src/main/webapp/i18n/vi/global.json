@@ -7,6 +7,7 @@
             "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
             "entities": {
                 "main": "Thực thể",
+                "car": "Car",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
@@ -36,8 +37,10 @@
         "form": {
             "username": "Tên tài khoản",
             "username.placeholder": "Nhập tên tài khoản của bạn",
+            "currentpassword": "Mật khẩu hiện tại",
+            "currentpassword.placeholder": "Nhập mật khẩu hiện tại",
             "newpassword": "Mật khẩu mới",
-            "newpassword.placeholder": "Nhập mật khẩu mới",
+            "newpassword.placeholder": "Nhập mật khẩu mới bbbb",
             "confirmpassword": "Xác nhận mật khẩu mới",
             "confirmpassword.placeholder": "Nhập lại mật khẩu mới",
             "email": "Email",

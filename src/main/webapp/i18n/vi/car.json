@@ -1,0 +1,21 @@
+{
+    "myappApp": {
+        "car": {
+            "home": {
+                "title": "Cars",
+                "createLabel": "Thêm mới một Car",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Car"
+            },
+            "created": "Một Car mới được tạo với định danh {{ param }}",
+            "updated": "Một Car cập nhật với định danh {{ param }}",
+            "deleted": "Một Car đã xóa với định danh {{ param }}",
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Car {{ id }}?"
+            },
+            "detail": {
+                "title": "Car"
+            },
+            "name": "Name"
+        }
+    }
+}
